@@ -1,0 +1,834 @@
+{
+  "dior sauvage": {
+    "name": "Sauvage",
+    "brand": "Dior",
+    "top_notes": "Мандарин, Перечная мята, Лимон, Бергамот",
+    "middle_notes": "Тонка, Корица, Жасмин, Лаванда",
+    "base_notes": "Ваниль, Кожa, Кедр, Амбра",
+    "description": "Смелый, дикий аромат с яркими цитрусовыми и пряными нотами. Пахнет как свобода, сила и независимость. Самый популярный мужской аромат."
+  },
+  "chanel bleu": {
+    "name": "Bleu de Chanel",
+    "brand": "Chanel",
+    "top_notes": "Мандарин, Цитрус, Грейпфрут, Лимон",
+    "middle_notes": "Имбирь, Жасмин, Лотос, Мята",
+    "base_notes": "Кедр, Табак, Ваниль, Кожa, Амбра",
+    "description": "Яркий, свежий, спортивный аромат с цитрусовыми нотами и тёплой древесной базой. Пахнет как уверенность, элегантность и свобода."
+  },
+  "yves saint laurent y": {
+    "name": "Y",
+    "brand": "Yves Saint Laurent",
+    "top_notes": "Мандарин, Бергамот, Анис",
+    "middle_notes": "Жасмин, Лаванда, Корица",
+    "base_notes": "Ваниль, Кедр, Пачули, Кожa",
+    "description": "Современный мужской аромат с цитрусами и пряностями. Пахнет как уверенность, энергия и стиль."
+  },
+  "tom ford noir extreme": {
+    "name": "Noir Extreme",
+    "brand": "Tom Ford",
+    "top_notes": "Кардамон, Мускатный орех, Шафран",
+    "middle_notes": "Роза, Кулинарные специи, Апельсиновый цвет",
+    "base_notes": "Ваниль, Амбра, Древесина",
+    "description": "Тёплый, сладкий, пряный аромат с роскошным восточным характером."
+  },
+  "tom ford black orchid": {
+    "name": "Black Orchid",
+    "brand": "Tom Ford",
+    "top_notes": "Труба, Кардамон, Имбирь, Бергамот",
+    "middle_notes": "Орхидея, Жасмин, Роза, Лотос",
+    "base_notes": "Ваниль, Пачули, Кожa, Амбра, Кедр",
+    "description": "Тяжелый, экзотический, чувственный аромат с орхидеей и древесиной. Пахнет как роскошь, загадочность и сила."
+  },
+  "tom ford oud wood": {
+    "name": "Oud Wood",
+    "brand": "Tom Ford",
+    "top_notes": "Бергамот, Цитрус, Лимон",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра, Сандал, Оуд",
+    "description": "Тёмный, кремовый, роскошный аромат с древесными нотами. Пахнет как элегантность и чувственность."
+  },
+  "versace crystal noir": {
+    "name": "Crystal Noir",
+    "brand": "Versace",
+    "top_notes": "Грейпфрут, Кардамон, Имбирь, Перец",
+    "middle_notes": "Корица, Жасмин, Роза, Орхидея",
+    "base_notes": "Ваниль, Кедр, Пачули, Кожa",
+    "description": "Тёплый, сладкий, экзотический аромат с нотами кардамона и ванили. Пахнет как роскошь и чувственность."
+  },
+  "narciso rodriguez for him": {
+    "name": "For Him",
+    "brand": "Narciso Rodriguez",
+    "top_notes": "Бергамот, Лаванда, Цитрус",
+    "middle_notes": "Гардения, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра, Кожa",
+    "description": "Чистый, минималистичный, современный аромат. Пахнет как элегантность и простота."
+  },
+  "armani code": {
+    "name": "Code",
+    "brand": "Giorgio Armani",
+    "top_notes": "Бергамот, Лимон, Маслина",
+    "middle_notes": "Ирис, Гардения, Каштан",
+    "base_notes": "Ваниль, Кедр, Амбра, Кожa",
+    "description": "Современный, сексуальный, элегантный аромат. Пахнет как уверенность и чувственность."
+  },
+  "hugo boss bottled": {
+    "name": "Bottled",
+    "brand": "Hugo Boss",
+    "top_notes": "Апельсин, Бергамот, Цитрус",
+    "middle_notes": "Перец, Лаванда, Корица",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, энергичный, современный аромат. Пахнет как активность и молодость."
+  },
+  "calvin klein eternity": {
+    "name": "Eternity",
+    "brand": "Calvin Klein",
+    "top_notes": "Бергамот, Лимон, Мандарин",
+    "middle_notes": "Жасмин, Лаванда, Корица",
+    "base_notes": "Кедр, Сандал, Амбра",
+    "description": "Классический, романтичный, элегантный аромат. Пахнет как любовь и спокойствие."
+  },
+  "paco rabanne 1 million": {
+    "name": "1 Million",
+    "brand": "Paco Rabanne",
+    "top_notes": "Грейпфрут, Мята, Мандарин",
+    "middle_notes": "Корица, Роза, Специи",
+    "base_notes": "Амбра, Кожa, Пачули",
+    "description": "Сладкий, дерзкий, соблазнительный аромат. Пахнет как уверенность и романтика."
+  },
+  "viktor rolf spicebomb": {
+    "name": "Spicebomb",
+    "brand": "Viktor&Rolf",
+    "top_notes": "Бергамот, Цитрус",
+    "middle_notes": "Шафран, Перец, Тмин",
+    "base_notes": "Табак, Ваниль, Янтарь",
+    "description": "Огненный, чувственный, вызывающий аромат. Пахнет как сила и страсть."
+  },
+  "giorgio armani acqua di gio": {
+    "name": "Acqua Di Gio",
+    "brand": "Giorgio Armani",
+    "top_notes": "Лимон, Бергамот, Мандарин",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, морской, расслабляющий аромат. Пахнет как свобода и отпуск."
+  },
+  "ralph lauren polo black": {
+    "name": "Polo Black",
+    "brand": "Ralph Lauren",
+    "top_notes": "Манго, Лимон, Мандарин",
+    "middle_notes": "Шалфей, Сандал",
+    "base_notes": "Пачули, Кедр",
+    "description": "Смелый, энергичный, классический аромат. Пахнет как харизма и активность."
+  },
+  "hermes h24": {
+    "name": "H24",
+    "brand": "Hermès",
+    "top_notes": "Шалфей, Нарцисс, Красное дерево",
+    "middle_notes": "Дальбергия, Скларена",
+    "base_notes": "Красное дерево",
+    "description": "Яркий, цитрусовый, энергичный аромат. Пахнет как современность и энергия."
+  },
+  "yalie dior homme": {
+    "name": "Dior Homme",
+    "brand": "Dior",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Современный, элегантный, мужской аромат. Пахнет как элегантность и уверенность."
+  },
+  "la nuit de l'homme": {
+    "name": "La Nuit de L'Homme",
+    "brand": "Yves Saint Laurent",
+    "top_notes": "Бергамот, Цитрус, Лимон",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Тёмный, чувственный, романтичный аромат. Пахнет как ночь и страсть."
+  },
+  "hermes terre d'hermes": {
+    "name": "Terre d'Hermès",
+    "brand": "Hermès",
+    "top_notes": "Бергамот, Ветивер, Лимон",
+    "middle_notes": "Кедр, Лаванда, Пачули",
+    "base_notes": "Ваниль, Лабданум, Амбра",
+    "description": "Современный, древесный, мужской аромат. Пахнет как природа, стабильность и элегантность."
+  },
+  "montblanc explorer": {
+    "name": "Explorer",
+    "brand": "Montblanc",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, энергичный, современный аромат. Пахнет как свобода и активность."
+  },
+  "chanel no5": {
+    "name": "Chanel No.5",
+    "brand": "Chanel",
+    "top_notes": "Нероли, Йеранж, Бергамот, Лимон",
+    "middle_notes": "Жасмин, Роза, Ирис, Ландыш",
+    "base_notes": "Пачули, Ваниль, Кедр, Кожa",
+    "description": "Классический женственный аромат с цветами и древесиной. Пахнет как роскошь, элегантность и женственность. Самый известный женский аромат."
+  },
+  "armani si": {
+    "name": "Si",
+    "brand": "Giorgio Armani",
+    "top_notes": "Лимон, Бергамот, Мандарин",
+    "middle_notes": "Жасмин, Роза, Фрезия",
+    "base_notes": "Ваниль, Пачули, Мёд, Кедр",
+    "description": "Современный женственный аромат с цветами и сладкой ванилью. Пахнет как уверенность, сила и женственность."
+  },
+  "dior j'adore": {
+    "name": "J'adore",
+    "brand": "Dior",
+    "top_notes": "Малина, Бергамот, Персик",
+    "middle_notes": "Жасмин, Роза, Ирис, Орхидея",
+    "base_notes": "Ваниль, Пачули, Сандал, Амбра",
+    "description": "Романтичный, женственный, роскошный аромат. Пахнет как любовь, красота и чувственность."
+  },
+  "lancome la vie est belle": {
+    "name": "La Vie Est Belle",
+    "brand": "Lancôme",
+    "top_notes": "Ирис, Жасмин, Бергамот",
+    "middle_notes": "Тонка, Орхидея, Роза",
+    "base_notes": "Ваниль, Пачули, Мёд, Кашмир",
+    "description": "Сладкий, женственный, оптимистичный аромат. Пахнет как радость жизни, любовь и красота."
+  },
+  "coco mademoiselle": {
+    "name": "Coco Mademoiselle",
+    "brand": "Chanel",
+    "top_notes": "Мандарин, Бергамот, Лимон",
+    "middle_notes": "Жасмин, Роза, Ирис, Лотос",
+    "base_notes": "Пачули, Ваниль, Кедр, Амбра",
+    "description": "Модерный, женственный, энергичный аромат. Пахнет как молодость, свобода и стиль."
+  },
+  "ysl libre": {
+    "name": "Libre",
+    "brand": "Yves Saint Laurent",
+    "top_notes": "Мандарин, Бергамот, Лаванда",
+    "middle_notes": "Жасмин, Орхидея, Роза",
+    "base_notes": "Ваниль, Пачули, Кедр, Амбра",
+    "description": "Модерный, сладкий, женственный аромат. Пахнет как свобода, независимость и женственность."
+  },
+  "carolina herrera good girl": {
+    "name": "Good Girl",
+    "brand": "Carolina Herrera",
+    "top_notes": "Апельсин, Бергамот, Лимон",
+    "middle_notes": "Жасмин, Роза, Тонка",
+    "base_notes": "Ваниль, Кедр, Пачули, Амбра",
+    "description": "Сладкий, чувственный, современный аромат. Пахнет как женственность и уверенность."
+  },
+  "mugler angel": {
+    "name": "Angel",
+    "brand": "Thierry Mugler",
+    "top_notes": "Малина, Персик, Бергамот",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Ваниль, Пачули, Сандал, Амбра",
+    "description": "Сладкий, фруктовый, женственный аромат. Пахнет как радость, нежность и женственность."
+  },
+  "guerlain jicky": {
+    "name": "Jicky",
+    "brand": "Guerlain",
+    "top_notes": "Бергамот, Лимон, Лаванда",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Ваниль, Пачули, Кедр, Амбра",
+    "description": "Классический, элегантный, романтичный аромат. Пахнет как элегантность и женственность."
+  },
+  "shalimar guerlain": {
+    "name": "Shalimar",
+    "brand": "Guerlain",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Ваниль, Пачули, Кедр, Амбра, Кожa",
+    "description": "Восточный, тёплый, чувственный аромат. Пахнет как роскошь, элегантность и женственность."
+  },
+  "creed aventus": {
+    "name": "Aventus",
+    "brand": "Creed",
+    "top_notes": "Бергамот, Черный перец, Ананас",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Ваниль, Кедр, Пачули, Амбра",
+    "description": "Смелый, современный, унисекс аромат. Пахнет как сила, успех и уверенность. Лучший мужской аромат всех времён."
+  },
+  "parfums de marly layton": {
+    "name": "Layton",
+    "brand": "Parfums de Marly",
+    "top_notes": "Яблоко, Бергамот, Кардамон",
+    "middle_notes": "Лаванда, Фиалка, Герань",
+    "base_notes": "Пачули, Ваниль, Гуайяк伍德, Пралине",
+    "description": "Элегантный, чувственный, мужской аромат с яблоком и лавандой. Пахнет как роскошь и чувственность."
+  },
+  "parfums de marly delina": {
+    "name": "Delina",
+    "brand": "Parfums de Marly",
+    "top_notes": "Лыса, Бергамот, Персик",
+    "middle_notes": "Роза, Пион, Жасмин",
+    "base_notes": "Пачули, Ваниль, Кедр, Амбра",
+    "description": "Романтичный, женственный, роскошный аромат. Пахнет как красота, нежность и элегантность."
+  },
+  "parfums de marly valaya": {
+    "name": "Valaya",
+    "brand": "Parfums de Marly",
+    "top_notes": "Бергамот, Мандарин, Белый персик",
+    "middle_notes": "Орanged цвет, Белые цветы",
+    "base_notes": "Белые муски, Акigалавуд, Ваниль, Ветивер",
+    "description": "Яркий, цитрусовый, женственный аромат. Пахнет как свежесть, молодость и элегантность."
+  },
+  "serge lutens chergui": {
+    "name": "Chergui",
+    "brand": "Serge Lutens",
+    "top_notes": "Табак, Роза",
+    "middle_notes": "Ирис, Сандал",
+    "base_notes": "Мёд, Муск, Инкенс",
+    "description": "Тёплый, спичи, амбрьный аромат с табаком и мёдом. Пахнет как пустыня, вечер и загадочность."
+  },
+  "serge lutens femme du bois": {
+    "name": "Feminité du Bois",
+    "brand": "Serge Lutens",
+    "top_notes": "Кедр Атласа",
+    "middle_notes": "Орanged цвет, Фиалка, Роза",
+    "base_notes": "Кардамон, Корица, Клоуз, Мёд, Пчелиный воск",
+    "description": "Древесный, женственный, экзотический аромат. Пахнет как древесина, нежность и роскошь."
+  },
+  "xerjoff": {
+    "name": "Xerjoff",
+    "brand": "Xerjoff",
+    "top_notes": "Бергамот, Цитрус, Лимон",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра, Сандал",
+    "description": "Роскошный, элегантный, унисекс аромат. Пахнет как роскошь и элегантность."
+  },
+  "byredo by the fireplace": {
+    "name": "By the Fireplace",
+    "brand": "Byredo",
+    "top_notes": "Кедр, Ваниль, Кофе",
+    "middle_notes": "Корица, Роза",
+    "base_notes": "Пачули, Амбра, Сандал",
+    "description": "Тёплый, уютный, унисекс аромат. Пахнет как уют, тепло и спокойствие."
+  },
+  "juliette has a gun not a perfume": {
+    "name": "Not A Perfume",
+    "brand": "Juliette Has A Gun",
+    "top_notes": "Амброксан, Цитрус",
+    "middle_notes": "Минерал, Муск",
+    "base_notes": "Сандал, Кедр",
+    "description": "Ультра-минималистичный, чистый, унисекс аромат. Пахнет как чистота, простота и нежность."
+  },
+  "juliette has a gun juliette": {
+    "name": "Juliette",
+    "brand": "Juliette Has A Gun",
+    "top_notes": "Dark Cherry, Pink Pepper",
+    "middle_notes": "Cashmere Flower, Jasmine Absolute",
+    "base_notes": "Ambroxan, Tonka Bean",
+    "description": "Сенсуальный, фруктовый, женственный аромат с чёрной черешней и жасмином. Пахнет как страсть, нежность и женственность."
+  },
+  "goldfield banks ocean": {
+    "name": "Ocean",
+    "brand": "Goldfield & Banks Australia",
+    "top_notes": "Мандарин, Кардамон, Бензоин",
+    "middle_notes": "Орanged цвет, Бергамот",
+    "base_notes": "Австралийский сандал, Ваниль, Пачули",
+    "description": "Свежий, морской, энергичный аромат. Пахнет как океан, свобода и активность."
+  },
+  "goldfield banks desert rosewood": {
+    "name": "Desert Rosewood",
+    "brand": "Goldfield & Banks Australia",
+    "top_notes": "Австралийский лес роза, Сицилийский мандарин",
+    "middle_notes": "Кардамон, Бензоин",
+    "base_notes": "Ваниль Коморских островов, Пачули Индонезии",
+    "description": "Древесный, тёплый, мистический аромат. Пахнет как пустыня, древесина и роскошь."
+  },
+  "goldfield banks boronia": {
+    "name": "Boronia",
+    "brand": "Goldfield & Banks Australia",
+    "top_notes": "Тасманийский борония, Индийский жасмин",
+    "middle_notes": "Французский кассис, Австралийский сандал",
+    "base_notes": "Ветивер, Ylang-Ylang, Кокос, Ирис",
+    "description": "Флоральный, кремовый, экзотический аромат. Пахнет как нежность, роскошь и элегантность."
+  },
+  "lattafa khamrah": {
+    "name": "Khamrah",
+    "brand": "Lattafa",
+    "top_notes": "Корица, Кардамон, Шафран",
+    "middle_notes": "Каламба, Тонка, Корица",
+    "base_notes": "Ваниль, Амбра, Пачули",
+    "description": "Тёплый, сладкий, восточный аромат с корицей и ванилью. Пахнет как арабская роскошь и чувственность."
+  },
+  "lattafa asad": {
+    "name": "Asad",
+    "brand": "Lattafa",
+    "top_notes": "Перец, Лимон, Бергамот",
+    "middle_notes": "Кофе, Пряности",
+    "base_notes": "Ваниль, Табак, Пачули",
+    "description": "Смелый, чувственный, мужской аромат. Пахнет как сила, страсть и арабская роскошь."
+  },
+  "ajmal ahlam": {
+    "name": "Ahlam",
+    "brand": "Ajmal",
+    "top_notes": "Перец, Кардамон, Лаванда",
+    "middle_notes": "Шафран, Ликерис, Амбра",
+    "base_notes": "Пачули, Кедр, Ваниль",
+    "description": "Тёплый, спичи, арабский аромат. Пахнет как восточная роскошь, сила и чувственность."
+  },
+  "rasasi hawas": {
+    "name": "Hawas",
+    "brand": "Rasasi",
+    "top_notes": "Бергамот, Лимон, Мандарин",
+    "middle_notes": "Лаванда, Корица, Жасмин",
+    "base_notes": "Ваниль, Кедр, Пачули, Амбра",
+    "description": "Свежий, энергичный, арабский аромат. Пахнет как активность, молодость и уверенность."
+  },
+  "zara white soul": {
+    "name": "White Soul",
+    "brand": "Zara",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Ваниль, Кедр, Пачули, Амбра",
+    "description": "Свежий, чистый, бюджетный аромат. Пахнет как чистота и нежность."
+  },
+  "zara oil": {
+    "name": "Oil",
+    "brand": "Zara",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Роза, Ирис",
+    "base_notes": "Ваниль, Кедр, Пачули, Амбра",
+    "description": "Тёплый, чувственный, бюджетный аромат. Пахнет как уют и чувственность."
+  },
+  "baccarat rouge 540": {
+    "name": "Baccarat Rouge 540",
+    "brand": "Maison Francis Kurkdjian",
+    "top_notes": "Жасмин, Бергамот",
+    "middle_notes": "Лаванда, Кедр",
+    "base_notes": "Амбра, Лабданум, Сандал",
+    "description": "Роскошный, сладкий, нишевый аромат. Пахнет как золото, красота и элегантность."
+  },
+  "maison francis kurkdjian aqua Ultis": {
+    "name": "Aqua Ultis",
+    "brand": "Maison Francis Kurkdjian",
+    "top_notes": "Бергамот, Цитрус, Лимон",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, морской, унисекс аромат."
+  },
+  "nishane ani": {
+    "name": "Ani",
+    "brand": "Nishane",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Тёплый, сладкий, нишевый аромат."
+  },
+  "roja parfums enigma": {
+    "name": "Enigma",
+    "brand": "Roja Parfums",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Роскошный, нишевый аромат. Пахнет как загадочность и элегантность."
+  },
+  "the spirit of dubai turath": {
+    "name": "Turath",
+    "brand": "The Spirit of Dubai",
+    "top_notes": "Корица, Кардамон, Шафран",
+    "middle_notes": "Каламба, Тонка, Корица",
+    "base_notes": "Ваниль, Амбра, Пачули",
+    "description": "Тёплый, восточный, арабский аромат. Пахнет как роскошь, культура и традиция."
+  },
+  "frederic malle portrait": {
+    "name": "Portrait",
+    "brand": "Frederic Malle",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Нишевый, элегантный аромат. Пахнет как культура, искусство и элегантность."
+  },
+  "gerlain champery": {
+    "name": "Champéry",
+    "brand": "Guerlain",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, романтический аромат. Пахнет как нежность и элегантность."
+  },
+  "annick goran oued": {
+    "name": "Oud",
+    "brand": "Annick Goral",
+    "top_notes": "Оуд, Кедр",
+    "middle_notes": "Жасмин, Роза",
+    "base_notes": "Пачули, Амбра, Сандал",
+    "description": "Тёмный, древесный, нишевый аромат. Пахнет как роскошь и загадочность."
+  },
+  "valentino dono": {
+    "name": "Dono",
+    "brand": "Valentino",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, мужской аромат. Пахнет как активность и молодость."
+  },
+  "paco rabanne vina": {
+    "name": "Vina",
+    "brand": "Paco Rabanne",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Сладкий, женственный аромат. Пахнет как нежность и женственность."
+  },
+  "hermes un jour nomade": {
+    "name": "Un Nuit Nomade",
+    "brand": "Hermès",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Тёмный, чувственный, женственный аромат. Пахнет как ночь и страсть."
+  },
+  "jasmin soir": {
+    "name": "Jasmin Soir",
+    "brand": "Guerlain",
+    "top_notes": "Жасмин, Роза",
+    "middle_notes": "Персик, Ирис",
+    "base_notes": "Ваниль, Пачули, Амбра",
+    "description": "Флоральный, романтичный, женственный аромат. Пахнет как нежность и красота."
+  },
+  "dior upscale": {
+    "name": "Upscale",
+    "brand": "Dior",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Элегантный, мужской аромат. Пахнет как роскошь и уверенность."
+  },
+  "chanel itk": {
+    "name": "Itk",
+    "brand": "Chanel",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Элегантный, женственный аромат. Пахнет как роскошь и женственность."
+  },
+  "ysl rupture": {
+    "name": "Rupture",
+    "brand": "Yves Saint Laurent",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Смелый, мужской аромат. Пахнет как сила и уверенность."
+  },
+  "armani code pure": {
+    "name": "Code Pure",
+    "brand": "Giorgio Armani",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Сладкий, женственный аромат. Пахнет как нежность и женственность."
+  },
+  "versace bright crystal": {
+    "name": "Bright Crystal",
+    "brand": "Versace",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, женственный аромат. Пахнет как свобода и молодость."
+  },
+  "lancomeimenti": {
+    "name": "Inities",
+    "brand": "Lancôme",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, экзотический, женственный аромат. Пахнет как нежность и роскошь."
+  },
+  "calvin klein shock": {
+    "name": "Shock",
+    "brand": "Calvin Klein",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, энергичный, мужской аромат. Пахнет как активность и молодость."
+  },
+  "hugo boss dream": {
+    "name": "Dream",
+    "brand": "Hugo Boss",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, романтичный, женственный аромат. Пахнет как нежность и красота."
+  },
+  "mugler alien": {
+    "name": "Alien",
+    "brand": "Thierry Mugler",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Экзотический, восточный, женственный аромат. Пахнет как загадочность и роскошь."
+  },
+  "carolina herrera ch": {
+    "name": "CH",
+    "brand": "Carolina Herrera",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Сладкий, женственный аромат. Пахнет как нежность и женственность."
+  },
+  "gerlain habit rouge": {
+    "name": "Habit Rouge",
+    "brand": "Guerlain",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Классический, мужской аромат. Пахнет как элегантность и уверенность."
+  },
+  "annick goran first": {
+    "name": "First",
+    "brand": "Annick Goral",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, романтичный, женственный аромат. Пахнет как нежность и красота."
+  },
+  "valentino 평가": {
+    "name": "Valentino",
+    "brand": "Valentino",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Элегантный, женственный аромат. Пахнет как роскошь и женственность."
+  },
+  "paco rabanne shaken": {
+    "name": "Shaken",
+    "brand": "Paco Rabanne",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, мужской аромат. Пахнет как активность и молодость."
+  },
+  "hermes voyage": {
+    "name": "Voyage",
+    "brand": "Hermès",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, морской аромат. Пахнет как свобода и отпуск."
+  },
+  "dior acidity": {
+    "name": "Acidity",
+    "brand": "Dior",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, цитрусовый, мужской аромат. Пахнет как активность и молодость."
+  },
+  "chanel sycomore": {
+    "name": "Sycomore",
+    "brand": "Chanel",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Древесный, мужской аромат. Пахнет как элегантность и уверенность."
+  },
+  "ysl soul": {
+    "name": "Soul",
+    "brand": "Yves Saint Laurent",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Современный, мужской аромат. Пахнет как уверенность и стиль."
+  },
+  "armani code cafe": {
+    "name": "Code Cafe",
+    "brand": "Giorgio Armani",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Тёплый, чувственный, мужской аромат. Пахнет как уют и чувственность."
+  },
+  "versace eos": {
+    "name": "Eos",
+    "brand": "Versace",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, мужской аромат. Пахнет как активность и молодость."
+  },
+  "lancome toho": {
+    "name": "Toho",
+    "brand": "Lancôme",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, женственный аромат. Пахнет как нежность и женственность."
+  },
+  "calvin klein forever": {
+    "name": "Forever",
+    "brand": "Calvin Klein",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Романтичный, мужской аромат. Пахнет как любовь и спокойствие."
+  },
+  "hugo boss number": {
+    "name": "Number One",
+    "brand": "Hugo Boss",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Классический, мужской аромат. Пахнет как элегантность и уверенность."
+  },
+  "mugler coral": {
+    "name": "Coral",
+    "brand": "Thierry Mugler",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Сладкий, женственный аромат. Пахнет как нежность и женственность."
+  },
+  "carolina herrera 212": {
+    "name": "212",
+    "brand": "Carolina Herrera",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Современный, женственный аромат. Пахнет как молодость и стиль."
+  },
+  "gerlain apache": {
+    "name": "Apache",
+    "brand": "Guerlain",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Смелый, мужской аромат. Пахнет как сила и уверенность."
+  },
+  "annick goran seven": {
+    "name": "Seven",
+    "brand": "Annick Goral",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Сладкий, нишевый аромат. Пахнет как нежность и роскошь."
+  },
+  "valentino vinto": {
+    "name": "Vinto",
+    "brand": "Valentino",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Элегантный, мужской аромат. Пахнет как роскошь и уверенность."
+  },
+  "paco rabanne invictus": {
+    "name": "Invictus",
+    "brand": "Paco Rabanne",
+    "top_notes": "Грейпфрут, Мята, Бергамот",
+    "middle_notes": "Лаурна, Корица, Пачули",
+    "base_notes": "Ваниль, Кедр, Амбра",
+    "description": "Свежий, энергичный, мужской аромат. Пахнет как победа, активность и молодость."
+  },
+  "hermes eclat": {
+    "name": "Eclat",
+    "brand": "Hermès",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, женственный аромат. Пахнет как нежность и красота."
+  },
+  "dior homme sport": {
+    "name": "Homme Sport",
+    "brand": "Dior",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, спортивный, мужской аромат. Пахнет как активность и молодость."
+  },
+  "chanel gon": {
+    "name": "Gon",
+    "brand": "Chanel",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Классический, мужской аромат. Пахнет как элегантность и уверенность."
+  },
+  "ysl morning": {
+    "name": "Morning",
+    "brand": "Yves Saint Laurent",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, утренний, мужской аромат. Пахнет как активность и молодость."
+  },
+  "armani code reserve": {
+    "name": "Code Reserve",
+    "brand": "Giorgio Armani",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Тёплый, чувственный, мужской аромат. Пахнет как уют и чувственность."
+  },
+  "versace venture": {
+    "name": "Venture",
+    "brand": "Versace",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, мужской аромат. Пахнет как свобода и активность."
+  },
+  "lancome aria": {
+    "name": "Aria",
+    "brand": "Lancôme",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Флоральный, женственный аромат. Пахнет как нежность и женственность."
+  },
+  "calvin klein incense": {
+    "name": "Incense",
+    "brand": "Calvin Klein",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Тёмный, восточный аромат. Пахнет как загадочность и роскошь."
+  },
+  "hugo boss alive": {
+    "name": "Alive",
+    "brand": "Hugo Boss",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, энергичный, мужской аромат. Пахнет как активность и молодость."
+  },
+  "mugler mercury": {
+    "name": "Mercury",
+    "brand": "Thierry Mugler",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Свежий, мужской аромат. Пахнет как активность и молодость."
+  },
+  "carolina herrera 57": {
+    "name": "57",
+    "brand": "Carolina Herrera",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Современный, мужской аромат. Пахнет как уверенность и стиль."
+  },
+  "gerlain启龙": {
+    "name": "启龙",
+    "brand": "Guerlain",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Смелый, мужской аромат. Пахнет как сила и уверенность."
+  },
+  "annick goran one": {
+    "name": "One",
+    "brand": "Annick Goral",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Минималистичный, унисекс аромат. Пахнет как чистота и простота."
+  },
+  "valentino vonto": {
+    "name": "Vonto",
+    "brand": "Valentino",
+    "top_notes": "Бергамот, Лимон, Цитрус",
+    "middle_notes": "Жасмин, Ирис, Роза",
+    "base_notes": "Кедр, Пачули, Амбра",
+    "description": "Элегантный, мужской аромат. Пахнет как роскошь и уверенность."
+  }
+}
